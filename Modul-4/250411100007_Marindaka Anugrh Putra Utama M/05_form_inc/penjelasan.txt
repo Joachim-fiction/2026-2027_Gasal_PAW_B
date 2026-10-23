@@ -1,0 +1,10 @@
+Hasil uji self-submission
+
+Surname Smith: Form submitted successfully with no errors
+Surname salah atau kosong: pesan error muncul, lalu form tampil lagi (kosong)
+
+Pembeda | 4.3.1 no.6 | 4.3.2 no.6
+File | Terpisah | Satu file
+Saat error | Hanya pesan error | Pesan error dan form di halaman yang sama
+
+Form yang tampil lagi masih kosong, jadi harus diisi ulang.

@@ -1,0 +1,10 @@
+Hasil uji surname dengan pesan error
+
+Surname Smith: Data OK!
+Surname kosong: surname required
+Surname Smith123: surname invalid
+
+Pembeda | Langkah no.3 | Langkah no.6
+Hasil jika salah | Data invalid! | surname required atau surname invalid
+
+Sekarang pesan error menjelaskan apa yang salah.

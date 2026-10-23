@@ -1,0 +1,10 @@
+Hasil uji form dengan isian tetap
+
+Surname Smith: Form submitted successfully with no errors
+Surname salah: pesan error muncul, form tampil lagi dengan isian tadi
+
+Pembeda | Langkah no.6 | Langkah no.8
+Form setelah error | Kosong | Terisi isian tadi
+
+Pengguna cukup memperbaiki field yang salah.
+Password tidak diisi ulang demi keamanan.

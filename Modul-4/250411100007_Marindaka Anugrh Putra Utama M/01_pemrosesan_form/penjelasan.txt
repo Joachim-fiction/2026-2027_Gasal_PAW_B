@@ -1,0 +1,9 @@
+Perbedaan GET dan POST
+
+Pembeda | GET | POST
+Data dikirim lewat | Alamat (URL) | Isi pesan request
+Terlihat di alamat | Ya | Tidak
+
+Dengan GET, data (termasuk password) tampil di alamat browser.
+Dengan POST, data tidak tampil di alamat.
+Jadi untuk form data pribadi, lebih baik pakai POST.

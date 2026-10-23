@@ -1,0 +1,8 @@
+Hasil uji surname
+
+Surname Smith (huruf saja): Data OK!
+Surname Smith123 (ada angka): Data invalid!
+Surname kosong: Data invalid!
+
+Surname hanya boleh berisi huruf, tanda petik satu, dan tanda minus.
+Hasilnya hanya benar atau salah, tanpa penjelasan.
